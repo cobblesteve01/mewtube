@@ -7,7 +7,10 @@ this is a complete joke.........i just might actually get serious. Anyway, this 
 - A gallery for seeing other's jawlines!
 - **More coming soon!**
 
-## Meet the Developer
+## Meet the Developers
 
 ### cobblesteve01
 Hey! I'm cobblesteve, and I'm a front-end developer. I'm learing JS and Python, so I can become a full stack developer. You should definitely check out my other repositories and organizations. Have a nice day!
+
+### SprintingSnail69
+Hey! I'm SprintingSnail69, and I'm a front-end developer. I'm learning JS and Python, so I can become a full stack developer. You should definitely check out my other repositories and organizations. Have a nice day!
